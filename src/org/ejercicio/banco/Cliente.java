@@ -6,8 +6,8 @@ public class Cliente {
 
  
     public Cliente (String str, long num) {
- nombre = str;
- dni = num;
+         nombre = str;
+         dni = num;
      }
      public Cliente(){}
  }
